@@ -1,5 +1,5 @@
 def hello():
-    return "Welcome to Jenkins Class 1!"
+    return "Welcome to Jenkins Class!"
 
 if __name__ == "__main__":
     print(hello())
